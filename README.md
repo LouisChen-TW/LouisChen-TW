@@ -1,6 +1,6 @@
-- 👋 Hello World, I'm Louis, located in Taiwan, newbie on github and currently learing JavaScript in AlphaCamp.
-- 👀 I’m interested in ... building a amazing website or become a great back-end dev.
-- 🌱 I’m currently learning ... JavaScript
+- 👋 Hello World, I'm Louis, located in Taiwan, a Junior backend developer.
+- 👀 I’m interested in ... great performace while dealing wiht backend and nice security.
+- 🌱 I’m currently learning cache database and building a API service by applying it.
 - 📫 How to reach me ... by Gmail: yue841206@gmail.com
 
 <!---
