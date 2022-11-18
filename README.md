@@ -12,8 +12,13 @@
 ## Stat
 ![stats](https://github-readme-stats.vercel.app/api?username=LouisChen-TW&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=LouisChen-TW&theme=vision-friendly-dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisChen-TW&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,expressjs,mysql,mongodb,redis,docker,jest,git,heroku,sequelize,typeorm)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisChen-TW&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=louischen13&theme=vision-friendly-dark&hide_border=true&layout=compact)](https://github.com/louischen13/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LouisChen-TW&repo=nestjs-backend-temp&theme=vision-friendly-dark&hide_border=true)](https://github.com/LouisChen-TW/github-readme-stats)
+ -->
